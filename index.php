@@ -31,7 +31,7 @@
             // pre_r($result->fetch_assoc());
             ?>
 
-            <div class="row jusidy-content-center" >
+            <div class="row justify-content-center" >
                 <table class="table">
                     <thead>
                         <tr>
