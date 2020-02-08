@@ -1,0 +1,5 @@
+process of submitting a form
+superglobals
+mysqli
+require_once
+basic sql commands
